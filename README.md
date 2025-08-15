@@ -9,9 +9,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at ajityadav.dev@gmail.com
 
 -->
-- 👋 Hi, I'm Ajit Yadav 
-- 🔭 I’m currently working on building AI application 
-- 🌱 I’m currently learning agentic implementations and multi agent 
-- 👯 I’m looking to collaborate on AI, ML, Full Stack Development, and open-source projects 
-- 📫 You can reach me at ajityadav.dev@gmail.com 
-- 📁 Portfolio: https://ajit-topaz.vercel.app/ 
+Hi, I'm Ajit Doom 
